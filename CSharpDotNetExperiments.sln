@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateEvents", "DelegateE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "OperatorOverloading\OperatorOverloading.csproj", "{3F37C542-A578-4BFC-A1B4-111EDE43CFC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetInterfaces", "DotNetInterfaces\DotNetInterfaces.csproj", "{02337F6F-680D-4E12-95BD-BC3DDC906263}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3F37C542-A578-4BFC-A1B4-111EDE43CFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F37C542-A578-4BFC-A1B4-111EDE43CFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F37C542-A578-4BFC-A1B4-111EDE43CFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02337F6F-680D-4E12-95BD-BC3DDC906263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02337F6F-680D-4E12-95BD-BC3DDC906263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02337F6F-680D-4E12-95BD-BC3DDC906263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02337F6F-680D-4E12-95BD-BC3DDC906263}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
